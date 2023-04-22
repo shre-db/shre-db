@@ -1,8 +1,8 @@
 Hi 👋 My name is Shreyas
 ========================
 
-Engineering | Machine Learning | Applied Math | Physics | Deep Learning
------------------------------------------------------------------------
+### **Engineering | Machine Learning | Applied Math | Physics | Deep Learning**<br><br>
+
 I am an Engineering graduate with a keen interest in the cutting-edge fields of Deep Learning and Data Science. I applied 'Reasoning from first principles' to successfully solve complex engineering problems. I possess skills in Applied Math, Physics, and Technology, and have worked on numerous projects during my academic and professional experience.
 
 * 🌍  I'm based in Mangalore
