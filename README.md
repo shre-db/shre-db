@@ -3,13 +3,13 @@ Hi 👋 My name is Shreyas
 
 ### **Applied Physics | Engineering | Artificial Intelligence**<br><br>
 
-I am an Engineering graduate with a strong background in Applied Physics, Engineering, and Artificial Intelligence. I worked on several projects that explored the intersection of these fields, including 'A Curious FFN', a research project that investigated the concept of "Artificial Curiosity" in a Feed-Forward Network (FFN) model for image recognition. Through the use of affine transformations on test data, the model demonstrated some level of creativity in finding new ways to solve the problem of image recognition, resulting in a 36% improvement in accuracy compared to the standard mode in classifying manipulated images. I am passionate about using my skills and knowledge to make a positive impact in the world, and I am enthusiastic about opportunities to apply my expertise in a professional setting. Please feel free to connect with me or check out my projects to learn more about my work.
+I am an Engineering graduate interested in Applied Physics, Engineering, and Artificial Intelligence. I worked on several projects that explored the intersection of these fields, including 'A Curious FFN', a research project that investigated a form of "Artificial Curiosity" in a Feed-Forward Networks (FFNs) for image recognition. I am passionate about using my skills and knowledge to contribute to science, and I am enthusiastic about opportunities to apply my knowledge in a professional setting. Please feel free to connect with me or check out my projects to learn more about my work. 😃
 
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
 * ✉️  You can contact me at [shreyasdb99@gmail.com](mailto:shreyasdb99@gmail.com)
 * 🚀  I'm currently working on [A Curious FNN](http://github.com/shre-db/A-Curious-FFN)
-* 🧠  I'm learning Reinforcement Learning
+* 🧠  I'm learning Advanced Deep Learning
 
 ### Skills
 
