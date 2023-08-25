@@ -1,9 +1,9 @@
-Hi 👋 My name is Shreyas
+Hey!👋 My name is Shreyas
 ========================
 
-### **Applied Physics | Engineering | Artificial Intelligence**<br><br>
+### **Applied Physics | Math | Artificial Intelligence**<br><br>
 
-I am an Engineering graduate interested in Applied Physics, Engineering, and Artificial Intelligence. I worked on several projects that explored the intersection of these fields, including 'A Curious FFN', a research project that investigated a form of "Artificial Curiosity" in a Feed-Forward Networks (FFNs) for image recognition. I am passionate about using my skills and knowledge to contribute to science, and I am enthusiastic about opportunities to apply my knowledge in a professional setting. Please feel free to connect with me or check out my projects to learn more about my work. 😃
+I am a recent engineering graduate interested in applied physics, math and artificial intelligence. I worked on an independent research project that investigated a form of "Artificial Curiosity" in Feed-Forward Networks (FFNs) for image classification. In physics and engineering I developed "Two-Point Masses" model which is a theoretical framework for designing complex frictionless braking system based on the principle of conservation of angular momentum. I am aggressively enthusiastic⚡ about using my skills and knowledge to contribute to science, and I am actively discovering opportunities to apply my knowledge in a professional setting. Please feel free to connect with me or check out my projects to learn more about my work. 😃
 
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
