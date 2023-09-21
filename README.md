@@ -8,7 +8,7 @@ I am a recent engineering graduate interested in physics, applied math, engineer
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
 * ✉️  You can contact me at [shreyasdb99@gmail.com](mailto:shreyasdb99@gmail.com)
-* 🚀  I'm currently working on [A Curious FNN](http://github.com/shre-db/A-Curious-FFN)
+* 🚀  I'm currently working on [A Curious FFN](http://github.com/shre-db/A-Curious-FFN)
 * 🧠  I'm learning Advanced Deep Learning
 
 ### Skills
