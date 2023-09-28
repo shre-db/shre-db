@@ -2,8 +2,11 @@ Shreyas
 ========================
 
 ### **Physics | Applied Math | Engineering | Artificial Intelligence**<br><br>
+Hi there! I'm an engineer with a passion for physics, artificial intelligence and data science. My skills include programming in Python and Julia; experience with machine learning libraries such as Scikit-Learn and PyTorch; and knowledge of data analysis and applied math.
 
-I am a recent engineering graduate interested in physics, applied math, engineering and artificial intelligence. I worked on an independent research project that investigated a form of "Artificial Curiosity" in Feed-Forward Networks (FFNs) for image classification. In physics and engineering I developed "Two-Point Masses" model which is a theoretical framework for designing complex frictionless braking system based on the principle of conservation of angular momentum. I am aggressively enthusiastic⚡ about using my skills and knowledge to contribute to science, and I am actively discovering opportunities to apply my knowledge in a professional setting. Please feel free to connect with me or check out my projects to learn more about my work. 😃
+I've developed a form of artificial curiosity in feed-forward networks for enhanced image classification, and I'm excited about exploring new ways to apply machine learning to solve complex problems. In physics and engineering, I've developed a "Two-Point Masses" model which serves as a theoretical framework for designing complex frictionless braking systems based on the principle of conservation of angular momentum.
+
+I'm aggressively enthusiastic ⚡ about using my skills and knowledge to contribute to science, and I'm always looking for new opportunities to collaborate with others. If you're interested in learning more about my work, feel free to reach out and connect with me or explore my projects. Let's see where we can take our shared interests! 😃
 
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
