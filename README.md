@@ -6,7 +6,7 @@ Hi there! I'm an engineer with a passion for physics, artificial intelligence an
 
 I've developed a form of artificial curiosity in feed-forward networks for enhanced image classification, and I'm excited about exploring new ways to apply machine learning to solve complex problems. In physics and engineering, I've developed a "Two-Point Masses" model which serves as a theoretical framework for designing complex frictionless braking systems based on the principle of conservation of angular momentum.
 
-I'm aggressively enthusiastic ⚡ about using my skills and knowledge to contribute to science, and I'm always looking for new opportunities to collaborate with others. If you're interested in learning more about my work, feel free to reach out and connect with me or explore my projects. Let's see where we can take our shared interests! 😃
+I'm enthusiastic ⚡ about using my skills and knowledge to contribute to science, and I'm always looking for new opportunities to collaborate with others. If you're interested in learning more about my work, feel free to reach out and connect with me or explore my projects. Let's see where we can take our shared interests! 😃
 
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
