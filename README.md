@@ -11,7 +11,7 @@ Currently, I specialize in generative adversarial networks (GANs), image inpaint
 * 🌍  I'm based in Mangalore
 * 🖥️  See my portfolio at [https://shre-db.github.io/cv/](http://shre-db.github.io/cv/)
 * ✉️  You can contact me at [shreyasdb99@gmail.com](mailto:shreyasdb99@gmail.com)
-* 🚀  I'm currently working on [A Curious FFN](http://github.com/shre-db/A-Curious-FFN)
+* 🚀  I'm currently working on [NeuroStyler](https://github.com/shre-db/NeuroStyler)
 * 🧠  I'm learning Advanced Deep Learning
 
 ### Skills
@@ -19,6 +19,7 @@ Currently, I specialize in generative adversarial networks (GANs), image inpaint
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Pytorch-svgrepo-com.svg/640px-Pytorch-svgrepo-com.svg.png" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://lightning.ai/docs/pytorch/stable/" target="_blank" rel="noreferrer"><img src="https://miro.medium.com/v2/resize:fill:176:176/1*uSM9QqCl2DJtejQSnwkCnw.png" width="36" height="36" alt="PyTorch-Lightning" /></a>
 <a href="https://julialang.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Julia_Programming_Language_Logo.png" height="36" alt="Julia" /></a>
 <a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Numpy-svgrepo-com.svg/640px-Numpy-svgrepo-com.svg.png" width="36" height="36" alt="NumPy" /></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/640px-Pandas_mark.svg.png" width="36" height="36" alt="Pandas" /></a>
@@ -33,6 +34,7 @@ Currently, I specialize in generative adversarial networks (GANs), image inpaint
 <a href="https://mlflow.org/" target="_blank" rel="noreferrer"><img src="https://mlflow.org/img/mlflow-black.svg" height="36" alt="MLflow" /></a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/640px-Amazon_Web_Services_Logo.svg.png" height="36" alt="AWS" /></a>
 <a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" height="36" alt="Streamlit" /></a>
+<a href="https://hydra.cc/" target="_blank" rel="noreferrer"><img src="https://hydra.cc/img/logo.svg" height="36" alt="Hydra" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
